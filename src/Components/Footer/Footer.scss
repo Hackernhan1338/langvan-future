@@ -1,0 +1,289 @@
+@import "../../variables/variables.scss";
+
+.footer {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    //background-image: linear-gradient(90deg, $background-color1 27%, $background-color3 73%);
+    background-color: #d4f0f0;
+
+    color: $text-color1;
+    font-size: 18px;
+
+    .scrolling-to-top {
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        width: 60px;
+        height: 60px;
+    }
+    .link-footer {
+        text-decoration: none;
+        color: $background-color2;
+        &:hover {
+            color: $text-color4;
+        }
+    }
+    .footer-top {
+        margin-bottom: 30px;
+        font-size: 20px;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        .footer-logo-phone {
+            flex: 3;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            .footer-logo {
+                width: 300px;
+                height: 100px;
+                margin-left: 50px;
+                // margin-bottom: 30px;
+            }
+            .footer-phone {
+                margin-top: 40px;
+                text-align: center;
+                cursor: pointer;
+                font-weight: 600;
+                &:hover {
+                    color: $text-color4;
+                }
+            }
+        }
+        .footer-address-email {
+            flex: 2;
+            margin-top: 220px;
+            .footer-address {
+                cursor: pointer;
+                font-weight: 600;
+                &:hover {
+                    color: $text-color4;
+                }
+            }
+            .footer-email {
+                cursor: pointer;
+                font-weight: 600;
+                &:hover {
+                    color: $text-color4;
+                }
+            }
+        }
+        .footer-social {
+            flex: 3;
+            margin-top: 190px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            .footer-follow {
+                margin-bottom: 10px;
+            }
+            .footer-social-icon {
+                .fa-facebook {
+                    font-size: 38px;
+                    margin-right: 15px;
+                    cursor: pointer;
+                    &:hover {
+                        color: blue;
+                    }
+                }
+                .fa-instagram {
+                    cursor: pointer;
+                    font-size: 40px;
+                    margin-right: 15px;
+                    padding: 0 3px 0 3px;
+                    &:hover {
+                        background: linear-gradient(
+                            170deg,
+                            rgba(156, 29, 253, 1) 9%,
+                            rgba(253, 115, 29, 1) 27%,
+                            rgba(253, 29, 29, 1) 63%,
+                            rgba(225, 41, 130, 1) 88%
+                        );
+                        color: white;
+                        border-radius: 10px;
+                        -webkit-border-radius: 10px;
+                        -moz-border-radius: 10px;
+                        -ms-border-radius: 10px;
+                        -o-border-radius: 10px;
+                        padding: 0 3px 0 3px;
+                    }
+                }
+                .fa-youtube {
+                    cursor: pointer;
+                    font-size: 40px;
+                    margin-right: 15px;
+                    &:hover {
+                        color: red;
+                    }
+                }
+            }
+        }
+        .footer-about {
+            flex: 2;
+            margin-top: 100px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: left;
+            .footer-about-title {
+                font-weight: 700;
+                font-size: 25px;
+                margin-left: 40px;
+            }
+            .footer-about-list {
+                list-style: none;
+                .footer-about-link {
+                    text-decoration: none;
+                    color: $text-color1;
+                    font-weight: 600;
+                    &:hover {
+                        color: $text-color4;
+                    }
+                }
+            }
+        }
+        .footer-customer {
+            flex: 2;
+            margin-top: 70px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: left;
+            .footer-customer-title {
+                font-weight: 700;
+                font-size: 25px;
+                margin-left: 40px;
+            }
+            .footer-customer-list {
+                list-style: none;
+
+                .footer-customer-link {
+                    font-weight: 600;
+                    text-decoration: none;
+                    color: $text-color1;
+                    &:hover {
+                        color: $text-color4;
+                    }
+                }
+            }
+        }
+    }
+    .footer-final {
+        height: 87px;
+        background-color: #d4f0f0;
+        .footer-final-text {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+        }
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .footer {
+        margin-top: 50px;
+        display: block;
+        flex-direction: row;
+        font-size: 18px;
+
+        .footer-top {
+            margin-bottom: 30px;
+            font-size: 20px;
+            height: auto;
+            display: block;
+            flex-direction: row;
+
+            .footer-logo-phone {
+                flex: 12;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                .footer-logo {
+                    margin-top: 30px;
+                    width: 300px;
+                    height: 100px;
+                    display: block;
+                }
+                .footer-phone {
+                    display: block;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: center;
+                    margin-top: 40px;
+                    text-align: center;
+                    cursor: pointer;
+                    font-weight: 600;
+                    &:hover {
+                        color: $text-color4;
+                    }
+                }
+            }
+            .footer-address-email {
+                flex: 12;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                margin-top: 10px;
+                .footer-address {
+                    flex: 12;
+                    margin-top: 10px;
+                }
+                .footer-email {
+                    flex: 12;
+                }
+            }
+            .footer-social {
+                flex: 12;
+                margin-top: 30px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
+        }
+        .footer-about {
+            flex: 12;
+            margin-top: 0px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            .footer-about-title {
+                margin-left: 0px;
+            }
+            .footer-about-link {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+        .footer-customer {
+            flex: 12;
+            margin-top: 0px;
+            display: block;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            .footer-customer-title {
+                margin-left: 0px;
+            }
+            .footer-customer-link {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+    }
+}

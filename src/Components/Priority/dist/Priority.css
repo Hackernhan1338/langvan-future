@@ -1,0 +1,50 @@
+.priority-title {
+  font-weight: 700;
+}
+
+.our-services {
+  margin-top: 75px;
+  padding-bottom: 30px;
+  padding: 0 50px;
+  min-height: 200px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #fff;
+  transition: all 0.8s ease-in-out;
+  box-shadow: 0 0 25px 0 rgba(20, 27, 202, 0.17);
+  -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+}
+
+.our-services .icon {
+  text-align: center;
+  font-size: 50px;
+}
+
+.our-services:hover h3,
+.our-services:hover p {
+  color: #fff;
+}
+
+.speedup:hover {
+  box-shadow: 0 0 25px 0 rgba(20, 27, 201, 0.05);
+  cursor: pointer;
+  background-image: linear-gradient(-45deg, black 0%, black 100%);
+  color: #fff;
+}
+
+.settings:hover {
+  box-shadow: 0 0 25px 0 rgba(20, 27, 201, 0.05);
+  cursor: pointer;
+  background-image: linear-gradient(-45deg, black 0%, black 100%);
+  color: #fff;
+}
+
+.privacy:hover {
+  box-shadow: 0 0 25px 0 rgba(20, 27, 201, 0.05);
+  cursor: pointer;
+  background-image: linear-gradient(-45deg, black 0%, black 100%);
+  color: #fff;
+}

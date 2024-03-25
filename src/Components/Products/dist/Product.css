@@ -1,0 +1,173 @@
+.button {
+  margin-right: 5px;
+}
+
+.Page {
+  padding: 0px 100px 0px 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: black;
+  text-decoration: none;
+  flex-direction: row;
+  list-style: none;
+}
+
+.Page-active {
+  border: 1px solid black;
+  width: 28px;
+  height: 28px;
+  border-radius: 20%;
+  background-color: #0e6eeb;
+  color: aliceblue;
+}
+
+.slideshow-img-details {
+  width: auto;
+  height: 350px;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+.Img {
+  width: auto;
+  height: 250px;
+  object-fit: fill;
+  flex: auto;
+}
+
+.MainImg {
+  width: auto;
+  height: 300px;
+  margin: 10px;
+}
+
+.OtherImg {
+  width: auto;
+  height: 150px;
+  float: left;
+  margin: 10px;
+}
+
+.Title {
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 20px 0px 10px 0px;
+}
+
+.Desc {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px 120px 10px 120px;
+}
+
+.MainProducts-content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-spec {
+  border: none;
+  background-color: #d4f0f0;
+  color: black;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+}
+.table-spec:hover {
+  background-color: black;
+  color: white;
+}
+
+.Price1 {
+  color: #d50e0e;
+  text-align: center;
+  font-size: 33px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.star-card-products {
+  text-align: center;
+  color: orange;
+}
+
+.tab-details-products {
+  color: black;
+  font-weight: 600;
+}
+.tab-details-products:active {
+  background-color: #d4f0f0;
+}
+
+.Spec {
+  font-size: 20px;
+  width: 100%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 5px 30px 5px 20px;
+}
+.Spec .col {
+  padding: 0px 60px 0px 30px;
+  color: black;
+}
+
+.Type {
+  color: black;
+  width: 100%;
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px 50px 10px 150px;
+}
+
+.buttonAdd {
+  padding: 10px;
+  margin-bottom: 30px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  color: #b5e9fb;
+  border: none;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  font-weight: bold;
+  transition: all 0.35s;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  -ms-transition: all 0.35s;
+  -o-transition: all 0.35s;
+}
+.buttonAdd:hover {
+  width: 220px;
+  background-color: black;
+  color: #b5e9fb;
+  font-size: 20px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #8bcfe1;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #d4f0f0;
+}

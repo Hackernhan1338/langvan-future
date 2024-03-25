@@ -1,0 +1,113 @@
+@import "../../variables/variables.scss";
+
+.button {
+    margin-right: 5px;
+}
+.gallery-item-filter {
+    background-color: $background-color4;
+    color: $text-color1;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    &:hover {
+        background-color: $background-color2;
+        color: $text-color2;
+    }
+}
+
+.card-gallery {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    min-height: 400px;
+    .gallery-card-price {
+        font-size: 25px;
+        font-style: italic;
+        font-weight: 600;
+    }
+}
+.Img-gallery {
+    width: auto;
+    height: 300px;
+    object-fit: fill;
+    //flex: auto;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+// .MainImg {
+//     width: auto;
+//     height: 350px;
+//     margin: 10px;
+// }
+
+// .OtherImg {
+//     width: auto;
+//     height: 350px;
+//     float: left;
+//     margin: 10px;
+// }
+
+.Title {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    margin: 20px 0px 10px 0px;
+}
+
+.Desc {
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 10px 120px 10px 120px;
+}
+
+// .Price {
+//     color: brown;
+//     text-shadow: 2px 2px 2px rgb(107, 108, 95);
+//     text-align: center;
+//     font-size: 30px;
+//     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+//     padding: 0px 120px 10px 380px;
+//     margin: 10px;
+// }
+
+.Rate {
+    color: rgb(238, 255, 0);
+    text-shadow:
+        -1px 0 black,
+        0 1px black,
+        1px 0 black,
+        0 -1px black;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    padding: 0px 120px 10px 380px;
+    margin: 10px;
+}
+
+.Spec {
+    font-size: 20px;
+    float: left;
+    text-align: left;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 5px 30px 5px 20px;
+    .col {
+        padding: 0px 60px 0px 30px;
+    }
+}
+
+.Type {
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 10px 50px 10px 150px;
+}
+
+.buttonAdd {
+    width: 150px;
+    height: 40px;
+}

@@ -1,0 +1,41 @@
+$primary-color: rgb(181, 233, 251);
+$second-color: rgb(32, 36, 48);
+$title-font: "Loster";
+$body-font: "Roboto";
+$text-color1: black;
+$text-color2: rgb(181, 233, 251);
+$text-color3: white;
+$text-color4: rgb(8, 32, 210);
+$background-color: rgb(181, 233, 251);
+$background-color1: white;
+$background-color2: black;
+$background-color3: rgb(219, 221, 222);
+$background-color4: rgb(212, 240, 240);
+$backgound-color-hover: rgb(181, 233, 251);
+$border-color: #5d5d68;
+$gray-color: #9e9ea4;
+$success-color: #0dc729;
+$danger-color: rgb(181, 233, 251);
+
+@mixin breakpoint($min-width) {
+    @media only screen and (min-width: $min-width) {
+        @content;
+    }
+}
+
+@mixin breakpoint-small {
+    @include breakpoint(600px) {
+        @content;
+    }
+}
+
+@mixin breakpoint-xsmall {
+}
+@mixin breakpoint-xxsmall {
+}
+@mixin breakpoint-medium {
+}
+@mixin breakpoint-xlarge {
+}
+@mixin breakpoint-xxlarge {
+}

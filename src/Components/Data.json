@@ -1,0 +1,481 @@
+[
+    {
+        "ID": 1,
+        "Name": "Gửi anh người lính đảo & Chút tình nơi biển đảo",
+        "Name1": "Inforgraphic 1",
+        "Price": 0,
+        "Rate": "5.0 with 4 ratings",
+        "Img1": "/Img/1(1).png",
+        "Img2": "/Img/1(2).png",
+        "Img3": "/Img/1(3).png",
+        "File": "/File/1-72 Inch 12 Blades Indoor Ceiling Fan.pdf",
+        "Top": 2,
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Nguyễn Thị Thu Hà lớp 10C12",
+            "Color": "White",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Morden",
+            "Power": "30W",
+            "Dimension": "65cm L x 17cm H",
+            "Room": "",
+            "Feature": "",
+            "Recommend": "",
+            "Type": {
+                "Mounting": "",
+                "Controller": "Remote Control",
+                "Speeds": 6,
+                "Blades": "Reversible Blades",
+                "Material": "Polycarbonate"
+            }
+        },
+        "Description": "Inforgraphic vê bài thơ Gửi anh người lính đảo & Chút tình nơi biển đảo do bạn Nguyễn Thị Thu Hà lớp 10C12 thiết kế."
+    },
+    {
+        "ID": 2,
+        "Name": "Thao thức Trường Sa",
+        "Name1": "Infographic 2",
+        "Price": 0,
+        "Rate": "4.1 with 83 ratings ",
+        "Img1": "/Img/2(1).png",
+        "Img2": "/Img/2(2).png",
+        "Img3": "/Img/2(3).png",
+        "File": "/File/2-Anyeark.pdf",
+        "Top": 2,
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Diệp Thành Đạt lớp 10C12",
+            "Color": "White",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Morden",
+            "Power": "30W",
+            "Dimension": "65cm L x 17cm H",
+            "Room": "",
+            "Feature": "",
+            "Recommend": "",
+            "Type": {
+                "Mounting": "",
+                "Controller": "Remote Control",
+                "Speeds": 6,
+                "Blades": "Reversible Blades",
+                "Material": "Polycarbonate"
+            }
+        },
+        "Description": "Inforgraphic vê bài thơ Thao thức Trường Sa do bạn Diệp Thành Đạt lớp 10C12 thiết kế."
+    },
+    {
+        "ID": 3,
+        "Name": "Người lính và Gửi quần đảo Trường Sa",
+        "Name1": "Infographic 3",
+        "Price": 0,
+        "Rate": "4.2 with 465 ratings",
+        "Img1": "/Img/3(1).png",
+        "Img2": "/Img/3(2).png",
+        "Img3": "/Img/3(3).png",
+        "File": "/File/3-Biukis Ceiling Fans.pdf",
+        "Top": 2,
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Thiên Hương 10C12",
+            "Color": "Black",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Modern",
+            "Power": "",
+            "Dimension": "8\"D x 27\"W x 12\"H",
+            "Room": "Kitchen, Bathroom, Living Room, Garage",
+            "Feature": "",
+            "Recommend": "Air Circulation",
+            "Type": {
+                "Mounting": "Celling Mount",
+                "Controller": "Remote control",
+                "Speeds": "",
+                "Blades": 3,
+                "Material": "Polycarbonate"
+            }
+        },
+        "Description": "Inforgraphic vê bài thơ Thao thức Trường Sa do bạn Thiên Hương lớp 10C12 thiết kế."
+    },
+    {
+        "ID": 4,
+        "Name": "Đợi mưa trên đảo sinh tồn & Tổ quốc ở Trường Sa",
+        "Name1": "Inforgraphic 4",
+        "Price": 0,
+        "Rate": "4.1 with 83 ratings",
+        "Img1": "/Img/4(1).png",
+        "Img2": "/Img/4(2).png",
+        "Img3": "/Img/4(3).png",
+        "Img4": "/Img/4(4).png",
+        "File": "/File/4-Dannilong Modern Enclosed Ceiling Fan.pdf",
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Vũ Trần Anh Thư lớp 10C12",
+            "Color": "Stripped",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Rustic, Modern, Farmhouse, Industrial",
+            "Power": "",
+            "Dimension": "17.7 inch",
+            "Room": "Living Room, Bedroom, Kitchen",
+            "Feature": "",
+            "Recommend": "",
+            "Noise": "",
+            "Type": {
+                "Mounting": "",
+                "Controller": "Remote Control",
+                "Speeds": 3,
+                "Blades": "",
+                "Material": "Metal"
+            }
+        },
+        "Description": "Inforgraphic vê bài thơ Thao thức Trường Sa do bạn Vũ Trần Anh Thư lớp 10C12 thiết kế."
+    },
+    {
+        "ID": 5,
+        "Name": "Tình yêu lính đảo",
+        "Name1": "Infographic 5",
+        "Price": 0,
+        "Rate": "3.5 with 12 ratings",
+        "Img1": "/Img/5(1).png",
+        "Img2": "/Img/5(2).png",
+        "File": "/File/5-Enclosed Mini Ceiling Fan.pdf",
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Hồ Thanh Hiệp lớp 10C12",
+            "Color": "Silver",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Modern, Dimmable, Switch Control, Remote Control",
+            "Power": "DC",
+            "Dimension": "10 x 10 x 4 inches",
+            "Room": "Bedroom",
+            "Feature": "",
+            "Recommend": "Indoor",
+            "Type": {
+                "Mounting": "Celling Mount",
+                "Controller": "Button control",
+                "Speeds": "",
+                "Blades": 3,
+                "Material": "Arcylic"
+            }
+        },
+        "Description": "Inforgraphic vê bài thơ Tình yêu lính đảo do bạn Hồ Thanh Hiệp lớp 10C12 thiết kế."
+    },
+    {
+        "ID": 6,
+        "Name": "Tổ quốc nhìn từ biển & Dảo Sơn Ca",
+        "Name1": "Inforgraphic 7",
+        "Price": 0,
+        "Rate": "4.2 with 13 ratings",
+        "Img1": "/Img/8(1).png",
+        "Img2": "/Img/8(2).png",
+        "Img3": "/Img/8(3).png",
+        "Img4": "/Img/8(4).png",
+        "File": "/File/6-GooComfy Dimmable Ceiling Fan.pdf",
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Nguyễn Đặng Tài lớp 10C12",
+            "Color": "White",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Morden",
+            "Power": "",
+            "Dimension": "27 inch",
+            "Room": "living room, dorm room, bedroom, kitchen and more",
+            "Feature": "",
+            "Recommend": "",
+            "Type": {
+                "Mounting": "",
+                "Controller": "APP & REMOTE CONTROLL",
+                "Speeds": "",
+                "Blades": 7,
+                "Material": "Metal, Arcylic"
+            }
+        },
+        "Description": "Inforgraphic vê bài thơ Tổ quốc nhìn từ biển và đảo Sơn Ca do bạn Nguyễn Đặng Tài lớp 10C12 thiết kế."
+    },
+    {
+        "ID": 7,
+        "Name": "Tình yêu biển đảo, Biển Hồ và Chút tình nơi đảo xa",
+        "Name1": "Infographic 8",
+        "Price": 0,
+        "Rate": "4.6 with 6,639 ratings",
+        "Img1": "/Img/9(1).png",
+        "Img2": "/Img/9(2).png",
+        "Img3": "/Img/9(3).png",
+        "File": "/File/7-Honeywell Ceiling Fans.pdf",
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Nguyễn Thịnh Phát 10C12",
+            "Color": "Pewter",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Pewter - Cage Light",
+            "Power": "Corded Electric",
+            "Dimension": "52\"D x 52\"W x 14.11\"H",
+            "Room": "Bedroom",
+            "Feature": "",
+            "Recommend": "Home",
+            "Type": {
+                "Mounting": "Celling Mount",
+                "Controller": "Remote Control",
+                "Speeds": "",
+                "Blades": 3,
+                "Material": "Engineered Wood, Metal"
+            }
+        },
+        "Description": "Inforgraphic vê bài thơ Tình yêu biển đảo, Biển Hồ và Chút tình nơi đảo xa do bạn Nguyễn Thịnh Phát 10C12 thiết kế."
+    },
+    {
+        "ID": 9,
+        "Name": "Người lính hải quân và bài thơ về Trường Sa",
+        "Name1": "Infographic 9",
+        "Price": 0,
+        "Rate": "4.6 with 1,087 ratings",
+        "Img1": "/Img/10(1).png",
+        "Img2": "/Img/10(2).png",
+        "Img3": "/Img/10(3).png",
+        "File": "/File/8-Riveria Breeze Ceiling Fan.pdf",
+        "Brands": 2,
+        "Spec": {
+            "Brand": "Phương Uyên lớp 10C12",
+            "Color": "Matte Black",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Traditional",
+            "Power": "Ac",
+            "Dimension": "52\"D x 52\"W x 12.3\"H",
+            "Room": "Living Room, Bedroom, Dining Room",
+            "Feature": "",
+            "Recommend": "Air Circulation",
+            "Type": {
+                "Mounting": "Air Circulation",
+                "Controller": "Pull chain control, Remote control",
+                "Speeds": 3,
+                "Blades": 5,
+                "Material": "Alloy Steel"
+            }
+        },
+        "Description": "Inforgraphic vê Người lính hải quân và bài thơ về Trường Sa do bạn Phương Uyên lớp 10C12 thiết kế."
+    },
+    {
+        "ID": 10,
+        "Name": "Mô hình",
+        "Name1": "Mô hình",
+        "Price": 0,
+        "Rate": "3.8 with 8 ratings",
+        "Img1": "/Img/video.mp4",
+        "File": "/File/9-TALOYA Ceiling Fan.pdf",
+        "Brands": 1,
+        "Spec": {
+            "Brand": "Truy cập đường link để xem video",
+            "Color": "sleek black woodand elegant silver",
+            "Efd": {
+                "Id": 2,
+                "Name": "Infographic"
+            },
+            "Style": "Retro",
+            "Power": "",
+            "Dimension": "22.83\"D x 12.72\"W x 13.5\"H",
+            "Room": "Kitchen, Bathroom, Living Room",
+            "Feature": "",
+            "Recommend": "",
+            "Type": {
+                "Mounting": "Celling Mount",
+                "Controller": "Pull chain control",
+                "Speeds": "",
+                "Blades": 5,
+                "Material": "Wood"
+            }
+        },
+        "Description": "https://www.youtube.com/watch?v=bIiTd38Vo6Q"
+    },
+    {
+        "ID": 11,
+        "Name": "Ký ức Trường Sa",
+        "Name1": "Ký ức Trường Sa",
+        "Price": 0,
+        "Rate": "4.9 with 8 ratings",
+        "Img1": "/Img/a.jpg",
+        "Img2": "/Img/b.jpg",
+        "Img3": "/Img/c.jpg",
+        "Img4": "/Img/d.jpg",
+        "Img5": "/Img/e.jpg",
+        "File": "/File/10-Prominence Home.pdf",
+        "Brands": 3,
+        "Spec": {
+            "Brand": "",
+            "Color": "White",
+            "Efd": {
+                "Id": 4,
+                "Name": "Infographic"
+            },
+            "Style": "Modern",
+            "Power": "Corded Electric",
+            "Dimension": "42\"D x 32\"W x 13\"H",
+            "Room": "Bedroom",
+            "Feature": "",
+            "Recommend": "Cooling",
+            "Type": {
+                "Mounting": "Celling Mount",
+                "Controller": "Remote control",
+                "Speeds": "",
+                "Blades": 6,
+                "Material": "Metal"
+            }
+        },
+        "Description": "Ký ức Trường Sa"
+    },
+    {
+        "ID": 12,
+        "Name": "Phân tích các biện pháp nghệ thuật trong bài thơ",
+        "Name1": "Phân tích các biện pháp nghệ thuật trong bài thơ",
+        "Price": 0,
+        "Rate": "4.7 with 785 ratings",
+        "Img1": "/Img/a(1).png",
+        "Img2": "/Img/a(2).png",
+        "File": "/File/11-BIOWIND.pdf",
+        "Brands": 3,
+        "top": 1,
+        "Spec": {
+            "Brand": "Trải qua hàng nghìn năm lịch sử, văn học vẫn tồn tại đến ngày nay trong đó chủ đề “Người lính” được rất nhiều nhà thơ khai thác để tạo nên một tác phẩm hay, có giá trị về mặt nhân văn rất lớn. Hay ở đây chính là những người lính đảo kiên cường, bất khuất nhưng điều đặc biệt ở đây chính là cuộc sống hàng ngày của họ. Sau đây sẽ là một số biện pháp nghệ thuật được tác giả sử dụng trong bài thơ: Ở khổ một được sử dụng nghệ thuật đối “giữa đá san hô-sân khấu với vài tấm tôn- cánh gà”->Chính nghệ thuật đối đó đã khắc họa được rõ nét sân khấu đơn sơ nhưng bộc lộ rõ nét sự tinh nghịch, lạc quan của những người lính đảo. Tuy sân khấu thô sơ, chỉ tạm bợ  bằng nhưng “đá san hô”; “vài tấm tôn” nhưng họ vẫn vui vẻ, vẫn phân trần thật tình “em đừng trách bọn chúng anh”. Chứng tỏ họ đã quen với cuộc sống nơi biển đảo xa xôi và sống chan hòa, hòa hợp với thiên nhiên nơi đây. Tiếp theo ở khổ 2: Biện pháp so sánh: Sỏi cát bay được so sánh như lũ chim hoang. -> Cho ta thấy được sư khủng khiếp, khắc nghiệt của thời tiết Trường Sa nơi những người lính đang trình diễn. Tuy sống trong điều kiện khắc nghiệt, hiểm trở nhưng không làm lung lay được ý chí kiên cường cùng tâm hồn lãng mạn của họ. Đến với khổ 5,6,7 sẽ thấy được hình ảnh đối lập giữa 2 câu thơ “Nào hát lên cho đêm tối biết/ Rằng tình yêu sang trong ngực ta đây”. -> Giữa bóng tối của biển đêm, của những điều kiện khắc nghiệt đâu đó vẫn còn sự rực rỡ ánh sang, của hi vọng trong trái tim yêu nước của các anh. Biên pháp điệp ngữ đã xuất hiện trong 2 khổ 8 và 9: “Nào hát lên” -> Đó chính là điệp khúc, là cao trào của bản tình ca lính đảo. Lời hát của người lính hòa vào đêm tối, vào thiên nhiên cũng chính là những tâm tư, sâu lắng của những anh lính. Và cuối cùng ở khổ cuối là một biện pháp ẩn dụ được tác giả tài tình cài cắm, cũng chính là chi tiết đắt giá nhất của bài thơ: Sự xuất hiện của những khán giả đặc biệt chưa từng có “những đá trọc đầu”. Một hình ảnh tưởng chừng đơn giản nhưng nó lại mang cho mình một ý nghĩa vô cùng sâu sắc thể hiện lên sự lạc quan, hóm hỉnh và vượt lên nghịch cảnh của những anh lính đảo. Bài thơ “Lính đảo hát tình ca trên đảo” của “Trần Đăng Khoa” chính là một bản tình ca đặc biệt của người lính đảo: nội dung đặc biệt, được biểu diễn trên một sân khấu đặc biệt, được thể hiện bởi những “nghệ sĩ ” đặc biện và đón nhận bởi những khán giả đặc biệt.",
+            "Color": "White",
+            "Efd": {
+                "Id": 2,
+                "Name": "Exhaust Fan"
+            },
+            "Style": "Modern",
+            "Power": "Corded Electric",
+            "Dimension": "1.96\"D x 11.54\"W x 5.51\"H",
+            "Room": "Kids Room, Living Room, Bedroom, Home Office, Dining Room",
+            "Feature": "",
+            "Recommend": "Indoor",
+            "Type": {
+                "Mounting": "Walling Mount, Floor Mount",
+                "Controller": "Button control",
+                "Speeds": "",
+                "Blades": 7,
+                "Material": "Aluminum"
+            }
+        },
+        "Description": "Phân tích các biện pháp nghệ thuật trong bài thơ"
+    },
+    {
+        "ID": 13,
+        "Name": "Biên pháp tu từ",
+        "Name1": "Biên pháp tu từ",
+        "Price": 0,
+        "Rate": "4.5 with 918 ratings",
+        "File": "/File/12-CAPTIVE-AIRE.pdf",
+        "Brands": 3,
+        "top": 1,
+        "Spec": {
+            "Brand": "Đã nhiều lần tôi tự hỏi: phải chăng thơ ca có điều gì đặc biệt mà khiến hàng triệu trái tim chìm đắm như thế? Liệu đó là nhờ ngòi bút thiên phú của người nghệ sĩ hay sức mạnh của từ ngữ tái hiện lại vẻ đẹp thi phẩm? Có lẽ, thơ không đơn thuần là một thể loại văn học mà nó là tiếng nói tình cảm và cả tấm chân tình của tác giả. Họ mượn từng con chữ, từng nghệ thuật tu từ để bạch bộc. Cũng như cách “thần đồng thơ ca”-Trần Đăng Khoa tạo nên kiệt tác bất hủ “Lính đảo hát tình ca trên đảo” để phản chiếu cuộc sống của người lính trên hòn đảo xa xôi đầy ý nghĩa. Với giọng điệu vừa tươi vui, vừa hóm hỉnh lại xúc động và một số biện pháp tu từ độc đáo tác phẩm đã sớm giữ cướp đi trái tim của bao độc giả. Dù đã trải qua hàng nghìn năm biến động lịch sử nhưng chủ đề về người lính vẫn chưa bao giờ phai mờ. Với mỗi cách sáng tác và cảm nhận khác nhau, rất nhiều thi phẩm gắn chủ đề đã nảy mầm. “Lính đảo hát tình ca trên đảo” không là trường hợp ngoại lệ. Dưới ngòi bút đa cảm của mình, Trần Đăng Khoa vẽ nên bức tranh về các anh lính trên quần đảo Trường Sa ở những năm tám mươi của thế kỉ XX. Tuy điều kiện sinh sống có chút vất vả nhưng tâm hồn họ lúc nào cũng lạc quan, yêu đời. Họ ngân nga lời ca của tâm hồn, của Tổ quốc và quê nhà thân yêu. Ngày ngày mộng tưởng về người thương, khao khát một tình yêu thủy chung dù chưa đối phương là ai. Có lẽ, họ thiếu thốn cả mặt vật chất lẫn tinh thần nhưng bù lại là tình yêu nước nồng nàn, luôn chan chứa. “Đá san hô kê lên thành sân khấu / Vài tấm tôn chôn mấy cánh gà / Em đừng trách bọn chúng anh tạm bợ / Chẳng phông màn nào chịu nổi gió trường sa”. Ta đã quá quen với hình ảnh những chàng thanh niên sẵn sàng đi theo tiếng theo tiếng gọi của Tổ quốc trong “Bài thơ về tiểu đội xe không kính” của Phạm Tiến Duật hay mấy anh lính dũng cảm không sợ chết vì nước trong “Tây Tiến” của Quang Dũng. Thì cùng chung khúc ca người lính “Lính đảo hát tình ca trên đảo” cũng mang màu sắc riêng. Tác giả cho đã cho thấy một cái sân khấu đơn sơ, không quá chi cầu kì của các anh. Nó được kê lên từ “đá san hô”, còn cánh gà là chôn vài tấm tôn tạm bợ và trang trí bằng những gì có sẵn trong tự nhiên. Vì họ biết chẳng phông màn nào chịu nổi sức gió Trường Sa. Qua lời nói của anh lính, ta mới ngộ nhận sự khắc nghiệt của Trường Sa: “Gió rát mặt, đảo luôn thay hình dạng / Sỏi cát bay như lũ chim hoang / Cứ mặc nó! Nào hỡi các chiến hữu / Ta bắt đầu thôi. Mây nước đã mở màn”. Để giúp bạn đọc cảm nhận rõ hơn về nơi Trường Sa, nhà thơ đã miêu tả kĩ chi tiết gió và nắng. Gió nơi đây rất nóng, mang cảm giác rát rát trên mặt trần, gió thổi tung sỏi cát như lũ chim hoang còn khiến đảo thay hình đổi dạng mỗi ngày. Biện pháp tu từ so sánh “Sỏi cát bay” với “lũ chim hoang” gợi ra hình ảnh sống động trong tâm trí người đọc. Bằng cách so sánh này, tác giả thể hiện được sức mạnh của thiên nhiên, cũng như cảm giác hoang dã và bất ngờ mà người lính trên đảo phải đối mặt hàng ngày. Ban đầu, cứ ngỡ thiên nhiên Trường Sa sẽ thoáng mát, êm dịu nào ngờ lại dữ dội như vậy. Cuộc sống vốn không đủ đầy, nay điều kiện tự nhiên còn khắc nghiệt làm khó khăn thêm chồng chất. Nhưng bấy nhiêu đấy gian khó liệu có đánh bại ý chí của họ? Đương nhiên là không, họ nói về chuyện đó vô cùng thản nhiên, cứ xem nó như một mảnh ghép quan trọng trong đời sống. Họ gạt bỏ mọi u phiền xung quanh để trở lại thú vui hàng ngày. Niềm vui ấy là được cùng các chiến hữu cất lời ca bất tử. Nhà thơ tinh ý đưa hình ảnh thiên nhiên tàn bạo đối lập với cảnh hát ca nhộn nhịp của những đứa con xa nhà trên đảo. Khi tấm màn “mây nước” chính thức mở ra buổi hòa ca sẽ bắt đầu. “Sân khấu lô nhô mấy chàng đầu trọc / Người xem ngổn ngang cũng rặt lính trọc đầu / Nước ngọt hiếm, không lẽ dành gội tóc / Lính trẻ, lính già đều trọc tếu như nhau / Những lúc vui cứ gọi đùa sư cụ / Là bà con xa với bụt ốc đây mà / Thôi lặng yên nghe. / Có gì đang đang sóng sánh / Hóa ra là sư cụ hát tình ca” Sau khi miêu tả cảnh quang ở quần đảo Trường Sa, người con Hải Dương tiếp tục khắc họa hình ảnh mấy anh lính nơi đây. “Sân khấu lô nhô mấy chàng đầu trọc” họ là những người lính hiện lên với hình ảnh ai nấy già trẻ, đồng chí đều đầu trọc như nhau. Họ tự nguyện cạo hết tóc mình để tránh sử dụng nhiều nước trong việc vệ sinh cá nhân. Một hình ảnh vừa hài hước vừa quý giá như nước ngọt được người lính chắt chiu dùng cho mục đích cần thiết thay vì dùng để gội đầu. Cuộc sống của cán bộ, chiến sĩ ở đây còn nhiều khó khăn: thiếu nước ngọt, thiếu rau xanh, thiếu văn công và các hoạt động nghệ thuật. Nhưng, ở nơi đầu sóng ngọn gió, hàng ngày, thậm chí hàng ngàn giờ, những người lính canh biển luôn trong tư thế sẵn sàng. Khó khăn vất vả là vậy tình đồng chí đồng đội luôn thắp sáng và sưởi ấm con tim của những người cầm súng bảo vệ nơi đầu sóng. Họ biết yêu thương nhau, tự tạo niềm vui cho cuộc sống của mình. Họ cùng nhau lắng nghe khúc hát êm dịu của biển cả, những cơn sóng ôm ấp chồng lên nhau tạo nên một giai điệu rất riêng mà có lẽ chỉ những người sống trên vùng đất này mới cảm nhận hết được vẻ đẹp này. Khúc hát rì rầm ấy khi nghe người ta cũng chẳng biết được là trái tim của người lính đang thổn thức hay là lời thì thầm của biển cả. “Những giai điệu ngang tàng như gió biển / Nhưng lời ca toàn nhớ với thương thôi / Đêm buông xuống nhình nhau không rõ nữa / Cứ ngỡ như vỏ ốc cất thành lời” Tiếng gió thổi xào xạc qua những hàng dừa, tiếng sóng vỗ lao xao hòa trộn vào nhau tạo nên một bản nhạc du dương mang đạm hương vị mặn của biển cả. Nhưng ta lại bị ấn tượng với cách Trần Đăng Khoa sử dụng biện pháp tu từ so sánh giai điệu bài nhạc ngang tàng như gió biển. Ngụ ý diễn tả vẻ đẹp của những giai điệu người lính mạnh mẽ, ngang tàng, đầy kiên định. Lời ca nào mà chẳng có tình yêu, huống chi nó xuất phát từ con tim người chiến sĩ: “lời ca toàn nhớ với thương thôi”. Nhưng tạm gác lại nỗi nhớ nhiệm vụ mà các anh gánh vác trên vai còn cao cả hơn thế. Đêm buông xuống, màn nhung đen phủ kín bầu trời chẳng còn nhìn rõ được gì nữa. Chỉ có tiếng hát là vang vọng mãi biển xa. Tiếng vỏ ốc va vào nhau sau từng đợt sóng được nhà thơ nhân hóa lên thành “vỏ ốc cất thành lời” làm cho lời thơ như sống dậy, sinh động hơn. “Rằng có đêm trăng dắt em đi dạo / Gương mặt em dịu dàng. Hàng cây cũng tươi xinh/ Mở mắt chung chiêng nghe lưng trời sóng vỗ / Và tay mình lại nắm lấy tay mình / Người yêu chúng anh ơi, các em ở phương nào? / Tóc em ngắn hay dài có trời mà biết được / Những bóng dáng nào sẽ đến với chúng anh / Trông bốn phía chỉ âm u mây nước” Có lẽ vì ở tuổi đôi mươi tươi đẹp, các anh chiến sĩ cô đơn này rất muốn có người thương. Ao ước vào những đêm trăng sáng được nắm tay nửa kia đi dạo, tâm tình và ngắm nhìn khuôn mặt lẫn mái tóc của em dưới ánh trăng sáng huyền ảo. Nhưng đó chỉ là mơ ước, thức dậy thì thấy tay mình lại nắm lấy ta mình, bốn phía chỉ thấy mây nước mênh mông vô tận. Nhưng, họ luôn có niềm tin rằng một ngày nào đó người thương sẽ đến bên mình. “Nào hát lên cho mấy nước biết/Rằng chúng ta là những con người/Yêu em thủy chung hơn muối mặn/Dù thư tình chưa biết gửi cho ai/Nào hát lên cho đêm tối biết/Rằng tình yêu sáng trong ngực ta đây/Ta đứng vững giữa muôn trùng sóng gió/Tổ quốc Việt Nam bắt đầu từ nơi này ...” Một lần nữa tiếng hát ngân nga lại vang lên, dù ở hoàn cảnh nào, họ vẫn cất cao tiếng hát của tâm hồn, một tâm hồn cao cả và đa cảm. Khẳng định tình yêu thủy chung của bản thân dành cho bạn đời qua câu thơ “Yêu em thủy chung hơn muối mặn”. Tác giả mượn hình ảnh của muối để bày tỏ tấm chân tình người lính còn mặn gấp bội lần. Mặc dù chưa biết trao tình yêu này cho ai thôi. Lời hát liên tiếp cất lên như một lời thề son sắt, dù là trong đêm tối mù mịt tình yêu vẫn là thứ soi sáng cho con đường chúng ta đi, các anh vẫn sẽ ở đây, bảo vệ khoảng trời yên bình thân yêu này bởi Việt Nam bắt đầu tại nơi đây. Điệp lại cấu trúc thơ: “Nào hát lên; Rằng chúng ta, Rằng tình yêu”, giúp hai khổ thơ liên kết gần gũi, dễ đọc dễ nhớ giống đoạn điệp khúc của một bài hát. Đồng thời, cũng nhấn mạnh phẩm chất cao quý của người lính canh gác ngoài biển khơi hiểm nguy.“Điệu tình ca cứ ngân lên chót vót/Bỗng bàng hoàng nhìn lại phía sau/Ngoài mép biển người đâu lên đông thế/Ồ, hoá ra toàn những đá trọc đầu ...” Điệu tình ca sao cứ ngân vang mãi, lúc thì lên cao chót vót lúc trầm xuống đến tận lòng người. Cứ như cảm xúc đang dâng trào rồi tụt xuống của người nghệ sĩ muốn bộc bạch. Bỗng bàng hoàng quay lại phía sau, ngoài mép biển có cái gì lạ lạ tiến tới. Nó làm nhiều độc giả tò mò, muốn biết là gì. Nhưng hóa ra, đó là những người lính trọc đầu được hiện lên qua câu cảm thán dưới cùng chốt lại tác phẩm “Ồ, hóa ra toàn những đá trọc đầu...”. Thể hiện trạng thái bất ngờ về việc xuất hiện của mấy anh lính. Lần nữa, tác giả mượn hình ảnh của thiên nhiên ngầm nâng cao phẩm chất, vẻ chịu khó của các anh. “Những hòn đá” luôn chịu nắng chịu mưa, bất chấp phong ba bão táp vì an nguy Tổ quốc. Luôn hi sinh thầm lặng, gạt bỏ lợi ích cá nhân mà đặt lợi ích đất nước lên hàng đầu. Bằng ngôn ngữ giản dị và gần gũi Trần Đăng Khoa đã thành công trong việc khắc họa cảnh vật, con người trên quần đảo Trường Sa, Việt Nam. 'Lính đảo hát tình ca trên đảo' giúp nhiều người cảm nhận được ý chí kiên cường, dũng cảm, mặc cho cuộc sống khốn khó và thiếu thốn đủ đường nhưng luôn lạc quan, yêu đời, hài lòng với mọi thứ. Họ là những người lính sẵn sàng khi Tổ quốc cần và mang một tình yêu nước cháy bỏng. Với cách sử dụng biện pháp tu từ điêu luyện, người con Hải Dương đã làm cho từng câu chữ thật sinh động, náo nhiệt, nó như đang mang một cảm xúc nào đó. Chốt lại, dù thời gian có xóa tan mọi thứ, dù quy luật cuộc sống cứ diễn ra cũng không tài nào làm mất đi giá trị của thi phẩm trong lòng bao người đọc.",
+            "Color": "Aluminum",
+            "Efd": {
+                "Id": 2,
+                "Name": "Exhaust Fan"
+            },
+            "Style": "Custom",
+            "Power": "AC",
+            "Dimension": "21\" x 21\"",
+            "Room": "Office",
+            "Feature": "",
+            "Recommend": "Exhausting",
+            "Noise": "",
+            "Type": {
+                "Mounting": "",
+                "Controller": "Button control",
+                "Speeds": "",
+                "Blades": "",
+                "Material": "Aluminum"
+            }
+        },
+        "Description": ""
+    },
+    {
+        "ID": 14,
+        "Name": "Người lính đảo và sân khấu đặc biệt của “Lính đảo hát tình ca trên đảo”",
+        "Name1": "Người lính đảo và sân khấu đặc biệt của “Lính đảo hát tình ca trên đảo”",
+        "Price": 0,
+        "Rate": "4.5 with 883 ratings",
+        "File": "/File/13-Exhust.pdf",
+        "Top": 1,
+        "Brands": 4,
+        "Spec": {
+            "Brand": "Tự hỏi giữa muôn rừng hoa, đóa nào hương sắc nhất, tự hỏi muôn bài hát giai điệu nào du dương. Thơ là bài hát là đóa hoa trong lòng của người thi sĩ, là tình yêu và hi vọng là cái say trong lòng người. Trong tác phẩm “Lính đảo hát tình ca trên đảo” của nhà thơ Trần Đăng Khoa đã khắc họa tình yêu nước, yêu cuộc sống của những người lính đảo gian khổ nơi xa:“Đá san hô kê lên thành sân khấu / Vài tấm tôn chôn mấy cánh gà / Em đừng trách bọn chúng anh tạm bợ / Chẳng phông màn nào chịu nổi gió Trường Sa / ... / Sân khấu lô nhô mấy chàng đầu trọc / Người xem ngổn ngang cũng...rặt lính trọc đầu / Nước ngọt hiếm, không lẽ dành gội tóc / Lính trẻ, lính già đều trọc tếu như nhau” Qua đoạn thơ, ta thấy rõ khung cảnh hiện lên một cách đơn sơ, giản dị từ việc sân khấu được dựng tạm bợ bằng “đá san hô” hay cánh gà được dựng bằng “vài tấm tôn”. Không những thế, diễn viên trong tác phẩm được miêu tả là “mấy chàng đầu trọc” là những người lính đảo đang làm nhiệm vụ canh gác và bảo vệ biển đảo, khán giả cũng chính là bọn họ là những người đồng đội của nhau đang vui vẻ thưởng thức chương trình, lạc quan trước cái cơ cực, thiếu thốn, điều này làm nên hình ảnh đặc biệt trong tác phẩm. Từ đó, ta thấy được lí do để tạo nên cảnh sắc đặc biệt này. Đó chính là sự gian khổ nơi gió cát, sóng to biển dữ của đảo xa, nỗi nhớ nhà, quê hương của mỗi người lính và cả sự yêu đời, yêu nước trước sự khắc nghiệt của thiên nhiên biển đảo. Họ đã tự tạo ra niềm vui cho bản thân trước cái khó cho thấy họ rất kiên cường, dũng cảm khi đối đầu với gian nan, thử thách.Qua tác phẩm “Lính đảo hát tình ca trên đảo” đã khắc họa hình tượng người lính đảo yêu nước, yêu quê hương, yêu biển đảo. Họ luôn lạc quan trước những khó khăn, yêu đời trước gian khổ, thiếu thốn nơi đảo xa. Đồng thời cũng thể hiện rõ tinh thần đồng đội, sự kiên cường bất khuất, anh dũng không ngại nguy hiểm, khổ đau.Dòng thời gian cứ trôi qua nhanh chóng như những cơn sóng đang cuộn trào cuốn trôi vạn vật nhưng lại bất lực trước những áng thơ ca. Thơ của Trần Đăng Khoa đã trở nên bất tử trước sự phá hoại của thời gian, hình ảnh đẹp về những người lính đảo là những đóa những hoa là những giai điệu bất tận dã làm nên chất men say mãi vào lòng người.",
+            "Color": "Silver",
+            "Efd": {
+                "Id": 2,
+                "Name": "Exhaust Fan"
+            },
+            "Style": "",
+            "Power": "Corded Electric",
+            "Dimension": "10.02\"D x 15\"W x 15\"H",
+            "Room": "Kitchen, Bathroom",
+            "Feature": "",
+            "Recommend": "Shop, Factories",
+            "Type": {
+                "Mounting": "Wall Mount",
+                "Controller": "Button control",
+                "Speeds": "",
+                "Blades": 3,
+                "Material": "Aluminum"
+            }
+        },
+        "Description": ""
+    },
+    {
+        "ID": 15,
+        "Name": "Nhận xét mạch cảm hứng trong bài thơ Lính đảo hát tình ca trên đảo",
+        "Name1": "Nhận xét mạch cảm hứng trong bài thơ Lính đảo hát tình ca trên đảo",
+        "Price": 0,
+        "Rate": "4.4 with 174 ratings",
+        "Img1": "/Img/b(1).jpg",
+        "Img2": "/Img/b(2).jpg",
+        "Img3": "/Img/b(3).jpg",
+        "File": "/File/14-HG Power.pdf",
+        "Brands": 4,
+        "top": 2,
+        "Spec": {
+            "Brand": "Cuộc sống là bức tranh muôn màu , pha trong đó là một màu hồng rực rỡ của sự hạnh phúc , màu đỏ của lòng dũng cảm, màu vàng dành cho sự tự tin rực rỡ, và tất cả màu sắc đó được tổ 2 hòa quyện lại tạo nên bức tranh biển đầy màu sắc và dùng màu chủ đạo chính là xanh dương tượng trưng cho màu của biển, màu của hòa bình. Chỉ cần nhìn vào bức tranh chúng ta có thể thấy được chủ đề chính là về người lính đảo. Và nếu như nói bức tranh này là nghệ thuật thì phải nói bài Lính đảo hát tình ca trên đảo  là một tuyệt tác trao cho chúng em cảm hứng cũng như phải dành lời khen cho tác giả Trần Đăng Khoa đã viết và vẽ nên tuyệt phẩm ấy bằng ngòi bút của mình. Nhìn vào bức tranh , đầu tiên có thể thấy được sự lạc quan của những người lính hải quân. Hình ảnh này được xây dựng bằng cảm nhận từ bốn khổ thơ đầu mà người cha đẻ của bài Lính đảo hát tình ca trên đảo đã ký bút lên.  Dù ở trong hoàn cảnh mà mọi thứ khan hiếm phải dựng sân khấu từ đá san hô, cánh gà được dưng lên từ vài mái tôn. Những người hải quân ở trên đảo ấy đã gặp không biết bao gian khổ, nào là các cơn gió thổi rát mặt, nào những trận bão cát “sỏi cát bay như lũ chim hoang”. Nếu phải nói thì đây chỉ là một phần nhỏ khó khăn mà Trần Đăng Khoa cho chúng ta thấy tuy nhiên thay gì tỏ ra mệt mỏi thì các anh lại lạc quan hồn nhiên đến lạ. Trong hoàn cảnh ấy các anh chọn “Cứ mặc nó. Nào hỡi các chiến hữu” cho thấy được phong thái bình thản, ung dung của người lính đảo. Dường như những khó khăn đó không còn là nỗi bận tâm của người lính và họ chỉ nghĩ về việc xây dựng sân khấu có một không hai của mình mà thôi. Không những thế tác giả còn dùng một giọng thơ hóm hỉnh để miêu tả những người lính trọc đầu: “Nước ngọt hiếm không lẽ dành gội tóc/ Lính trẻ lính già đều trọc tếu như nhau”. Trần Đăng Khoa là một người lính thực thụ chứ không phải chỉ là một nhà văn đi thực tế. Vì vậy, hơn ai hết,  ông là người hiểu rõ nhất những cung bậc cảm xúc của người lính đảo. Bên cạnh những khoảnh khắc đương đầu với khó khăn, sóng gió là những giây phút lạc quan, yêu đời. Đây cũng chính là nguồn cảm hứng để bọn em vẽ nên sự lạc quan trong bức tranh này. Sự lạc quan ấy chưa thật lột tả được hết tâm tư của những người lính trên đảo. Xen kẽ sự lạc quan hồn nhiên ấy là 'cái' suy tư đến kì lạ , nào là nhớ gia đình , nhớ cả người yêu. 'Người yêu chúng anh ơi, các em ở phương nào?' Câu văn tựa như đơn giản nhưng lại chan chứa nỗi nhớ tha thiết. Và đó cũng một phần nguồn cảm hứng giúp tổ em vẽ nên bức tranh này. Những người lính nơi biển đảo xa xôi họ tinh nghịch, lạc quan nhưng đôi lúc vẫn có những nốt trầm trong tâm trạng, đó là những giai điệu của tình cảm cá nhân, giai điệu của dòng cảm xúc ẩn sâu bên trong của những người lính. Nhưng không phải vì những suy tư đó mà họ quên đi trách nhiệm của mình đối với tổ quốc. Trái lại tình cảm ấy chính là động lực cho họ trong những ngày tháng chiến đấu kiên cường nơi biển trời bao la. Và dòng cảm hứng cuối cùng trong bài thơ là sự kiêu hãnh, tự hào của những người lình bằng lòng yêu nước, bằng tư thế hiên ngang, bản lĩnh của họ nơi đầu sóng ngọn gió. Nếu lòng yêu nước tự hào về dân tộc được thể hiện qua bốn khổ hơn cuối thì cả bức tranh này là sự tự hào biết ơn của chúng em đối với tổ quốc , đối với những người lính biển đảo. Tóm lại, bài thơ 'lính đảo hát tình ca trên đảo' của tác giả Trần Đăng Khoa là một bài thơ sâu sắc và giàu ý nghĩa. Bài thơ đã miêu tả sâu sắc tâm lý của những anh lính, hiện thực ở trên đảo, sự cô đơn và sự lạc quan của anh lính trên đảo.Và tất cả những ý nghĩa đó là nguồn cảm hứng cho chúng em vẽ nên bức tranh này. Bài thơ cũng đã để lại cho chúng em nhiều ấn tượng, giúp chúng em được hiểu rõ hơn về tâm lý và hiện thực của những anh lính trên đảo, đã cho chúng em thêm lí do để ca ngợi, biết ơn các anh lính đã dành cả đời phục vụ cho đất nước Việt Nam.",
+            "Color": "Black",
+            "Efd": {
+                "Id": 2,
+                "Name": "Exhaust Fan"
+            },
+            "Style": "",
+            "Power": "AC",
+            "Dimension": "7\"D x 12.6\"W x 12.6\"H",
+            "Room": "Kitchen, Bathroom, Bedroom, Living Room, Home Office, Garage, Attic, Chicken Coop,Shed, Workshop, Dining Room",
+            "Feature": "",
+            "Recommend": "Cooling",
+            "Type": {
+                "Mounting": "Wall Mount",
+                "Controller": "Button control",
+                "Speeds": 3,
+                "Blades": "",
+                "Material": "Plastic"
+            }
+        },
+        "Description": ""
+    }
+]
