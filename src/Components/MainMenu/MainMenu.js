@@ -23,7 +23,7 @@ function MainMenu() {
                   TRANG CHỦ
                 </Nav.Link>
                 <Nav.Link href="/products" className="mainmenu-item">
-                  BÀI HỌC
+                  TẤT CẢ
                 </Nav.Link>
                 <NavDropdown
                   title="THỂ LOẠI"
@@ -52,7 +52,7 @@ function MainMenu() {
                   ))}
                 </NavDropdown>
                 <Nav.Link href="/gallery" className="mainmenu-item ">
-                  TẤT CẢ
+                  HÌNH ẢNH
                 </Nav.Link>
                 <Nav.Link href="/feedback" className="mainmenu-item">
                   ĐÁNH GIÁ
